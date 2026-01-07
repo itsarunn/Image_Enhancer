@@ -1,0 +1,9 @@
+.thumbnail{
+    height: 70px;
+    width: 100px;
+}
+.display-img{
+    width: 500px;
+    height: 350px;
+    align-items: center;
+}
